@@ -1,5 +1,4 @@
 {
-  "aapp-name-of-container": "Name of Container",
   "ap-next-occurence": "Next occurence",
   "app-3d-model": "3D Model",
   "app-ability-to-add-update-and-remove-features": "Ability to add, update and remove features",
@@ -22,7 +21,7 @@
   "app-add-users": "Add Users",
   "app-added-on": "Added on",
   "app-added-user": "You added 1 user",
-  "app-advance--gis-tools": "Advanced GIS Tools ",
+  "app-advance-gis-tools": "Advanced GIS Tools ",
   "app-advance-option": "Advanced Option",
   "app-advanced-gis-tools": "Advanced GIS Tools ",
   "app-advanced-option": "Advanced Option",
@@ -271,6 +270,7 @@
   "app-my-profile": "My Profile",
   "app-name": "Name",
   "app-name-of-asset": "Name of Asset",
+  "app-name-of-container": "Name of Container",
   "app-new-asset": "New Asset",
   "app-new-assets": "New Asset",
   "app-new-container": "New container",
