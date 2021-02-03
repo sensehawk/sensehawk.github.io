@@ -1,5 +1,4 @@
 {
-  "ap-next-occurence": "Next occurence",
   "app-3d-model": "3D Model",
   "app-ability-to-add-update-and-remove-features": "Ability to add, update and remove features",
   "app-ability-to-add-update-and-remove-features-and-feature-type-groups": "Ability to add, update and remove feature types and feature type groups",
@@ -282,6 +281,7 @@
   "app-new-schedule": "New Schedule",
   "app-new-team": "New Team",
   "app-new-ticket-name": "New Ticket Name",
+  "app-next-occurence": "Next occurence",
   "app-no-applications-assigned": "No applications assigned",
   "app-no-asset-assigned": "No assets assigned",
   "app-no-associated-missions": "No associated missions",
@@ -424,7 +424,7 @@
   "app-since-last-month": "Since last month",
   "app-since-last-week": "Since last week",
   "app-since-last-year": "Since last year",
-  "app-since-yesterday": "All / Sinc e Yesterday",
+  "app-since-yesterday": "Since Yesterday",
   "app-site-management": "Site Management",
   "app-site-o&m": "Site O&M",
   "app-site-operations": "Site Operations",
