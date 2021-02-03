@@ -1,5 +1,4 @@
 {
-  "ap-next-occurence": "Siguiente acontecimiento",
   "app-3d-model": "Modelo en 3D",
   "app-ability-to-add-update-and-remove-features": "Habilidad de añadir, actualizar y quitar características",
   "app-ability-to-add-update-and-remove-features-and-feature-type-groups": "Habilidad de añadir, actualizar y quitar tipo de características y grupos de tipos de características",
@@ -281,6 +280,7 @@
   "app-new-schedule": "Nuevo Calendario",
   "app-new-team": "Nuevo Equipo",
   "app-new-ticket-name": "Nuevo Título del Ticket",
+  "app-next-occurence": "Siguiente acontecimiento",
   "app-no-applications-assigned": "No hay aplicaciones asignadas",
   "app-no-asset-assigned": "No hay activos asignados",
   "app-no-associated-missions": "No hay misiones asociadas",
@@ -423,7 +423,7 @@
   "app-since-last-month": "Desde el mes pasado",
   "app-since-last-week": "Desde la semana pasada",
   "app-since-last-year": "Desde el año pasado",
-  "app-since-yesterday": "Todo / Desde Ayer",
+  "app-since-yesterday": "Desde Ayer",
   "app-site-management": "Administración de Sitio",
   "app-site-o&m": "Operaciones y Mantenimiento de Sitio",
   "app-site-operations": "Operaciones en Sitio",
